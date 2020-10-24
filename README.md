@@ -1,8 +1,6 @@
 # Project Ideas and Resources ⚡
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+<img src="https://user-images.githubusercontent.com/61475220/97093903-6d8aee80-166d-11eb-8799-13e119380d2b.jpg" width="50%" align=right>
 
 Have you ever wanted to build something but you had no idea what to do? Just as
 authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
