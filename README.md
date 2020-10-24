@@ -40,13 +40,18 @@ required to complete them.
 | Name                                                                              | Short Description                                          | Tier       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [Chess Game App](https://www.youtube.com/watch?v=SS5amIbX0Mo&list=LL&index=3&t=56s) | A Two Player Chess game application using JavaScript| 1-Beginner |
+| [10 User Interfaces](https://www.youtube.com/watch?v=Rz-rey4Q1bw&list=LL&index=6&t=8839s) | 10 User Interfaces using HTML, CSS and JavaScript| 1-Beginner |
+
 
 
 ### Tier-2: Intermediate Projects
 
 | Name                                                                              | Short Description                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
-[Airbnb Clone Application](https://www.youtube.com/watch?v=IQaCL8_bwA4&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=7) | A React App for Airbnb Home page Clone                  | 2-Intermediate |
+| [Airbnb Clone Application](https://www.youtube.com/watch?v=IQaCL8_bwA4&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=7) | A React App for Airbnb Home page Clone                  | 2-Intermediate |
+| [TMDB Movie App](https://www.youtube.com/watch?v=ufodJVcpmps) |  an interactive Movie Database app using ReactJS.                | 2-Intermediate |
+| [Github Jobs App](https://www.youtube.com/watch?v=fxY1q4SCB64&list=LL&index=2) |  A GitHub Jobs App using React Hooks and Github API                | 2-Intermediate |
+
 
 
 ### Tier-3: Advanced Projects
@@ -57,8 +62,6 @@ required to complete them.
 |  [Netflix Clone - FullStack](https://www.youtube.com/watch?v=x_EEwGe-a9o&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=1&t=291s)   | A Netflix clone application using TMDB API | 3-Advanced |
 
 
-
-- 
 
 
 ## Plans for the future
