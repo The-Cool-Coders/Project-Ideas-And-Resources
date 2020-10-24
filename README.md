@@ -1,4 +1,4 @@
-# Project List ⚡
+# Project Ideas and Resources ⚡
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
@@ -24,84 +24,41 @@ Each project has the following **features**:
 3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
 4. All the resources and links to help you find what you need to complete the project
 
-## Front End Ideas
+## Projects
 
-### HTML & CSS ✔
+Projects are divided into three tiers based on the knowledge and experience
+required to complete them.
 
-* eCertificate Generating Site
-* Responsive Portfolio
-* Photography Site
-* Technical Documentation Wiki
-* Survey Forms
-* Comic Reading Site
-* Product Landing Page
-* Fashion eCommerce Website
-* Restaurant Management System
-* Event Management Website
-* Product Landing Page
-* Travel Agency Landing Page
-* Tribute Page
-* Parallax Site
-* Fashion eCommerce Website
-* Event Management Website
-* Weather Suggestions (Landing Page)
-* Event or Conference Page
-* Online Store Page
-* Restaurant (Landing Page)
-* Quiz Game
-* Podcast Website
-* Courses Website
+| Tier | Developer Profile                                                                                                                                                |
+| :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
+|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
+|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
 
-### JavaScript ✔
+### Tier-1: Beginner Projects
 
-* ToDo App
-* Tic Tac Toe Game
-* JS Quiz App
-* Expense Manager
-* Covid CheckUp Test
-* Calculator
-* Animation in Web Design
-* Flappy Bird Game
-* Snake Game
-* Maze Game
-* JavaScript Map
-* Random Quotes Generator
-* Light Switch Effect
-* Sudoku Solver
-* Nano ID
-* Prettier
-* Random Quotes Project
-* Online Quiz
-* Banking System
-* Space Invaders Game
-* Memory (Card game)
-* Drum Kit 
-* The RGB Color Game
-* Dice Game
-* Music App
-* Tip Calculator
-* Color Palette App
-* Virtual Drums App
-* Dice Roll
-* Weather App 
-* Hangman Game
-* Memory (Card Game)
-* Transaction Limiter (Splitwise App Clone)
-* Patatap Game
-* RGB color Guessing Game
-* URL Shortener
-* Courses Website
-* Landing Page
-* ID Card Generator
-* Movie Seat Booking App
-* Exchange Rate Calculator
+| Name                                                                              | Short Description                                          | Tier       |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+| [Chess Game App](https://www.youtube.com/watch?v=SS5amIbX0Mo&list=LL&index=3&t=56s) | A Two Player Chess game application using JavaScript| 1-Beginner |
 
-### React Projects ✔
 
-- [Netflix Clone - FullStack](https://www.youtube.com/watch?v=x_EEwGe-a9o&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=1&t=291s)
-- [Youtube Thumbnail Application](https://www.youtube.com/watch?v=r5iFrxi9-hY&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=3)
-- [Facebook Clone Application](https://www.youtube.com/watch?v=B-kxUMHBxNo&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=6)
-- [Airbnb Clone Application](https://www.youtube.com/watch?v=IQaCL8_bwA4&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=7)
+### Tier-2: Intermediate Projects
+
+| Name                                                                              | Short Description                                  | Tier           |
+| --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
+[Airbnb Clone Application](https://www.youtube.com/watch?v=IQaCL8_bwA4&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=7) | A React App for Airbnb Home page Clone                  | 2-Intermediate |
+
+
+### Tier-3: Advanced Projects
+
+| Name                                                                          | Short Description                                                   | Tier       |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
+| [Facebook Clone Application](https://www.youtube.com/watch?v=B-kxUMHBxNo&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=6)                 | A facebook Clone Application using React JS and Firebase  | 3-Advanced |
+|  [Netflix Clone - FullStack](https://www.youtube.com/watch?v=x_EEwGe-a9o&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=1&t=291s)   | A Netflix clone application using TMDB API | 3-Advanced |
+
+
+
+- 
 
 
 ## Plans for the future
