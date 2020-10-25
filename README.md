@@ -54,6 +54,7 @@ required to complete them.
 | [Weather App](https://www.youtube.com/watch?v=GuA0_Z1llYU) | Weather app in React JS using the Open Weather Map API | 2-Intermediate |
 | [Business Card Generator](https://www.youtube.com/watch?v=mGORpgEOsT4) | A Business Card Generator using React JS | 2-Intermediate |
 | [React Photo Gallery](https://www.youtube.com/watch?v=vUe91uOx7R0) | Photo Gallery App using React JS and Firebase | 2-Intermediate |
+| [Chat-Bot Application](https://www.youtube.com/watch?v=FFT4p6me2g0)|A Chat-Bot which can answer your queries using python|2-Intermediate|
 
 
 ### Tier-3: Advanced Projects
@@ -62,6 +63,7 @@ required to complete them.
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
 | [Facebook Clone Application](https://www.youtube.com/watch?v=B-kxUMHBxNo&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=6)                 | A facebook Clone Application using React JS and Firebase  | 3-Advanced |
 |  [Netflix Clone - FullStack](https://www.youtube.com/watch?v=x_EEwGe-a9o&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=1&t=291s)   | A Netflix clone application using TMDB API | 3-Advanced |
+| [Instagram Clone Application](https://www.youtube.com/watch?v=f7T48W0cwXM)|An Instagram Clone application using React JS|3-Advanced|
 |  [A COVID-19 Tracker](https://www.youtube.com/watch?v=cF3pIMJUZxM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=2)   | A COVID-19 Tracker using React JS | 3-Advanced |
 |  [Full-Stack Amazon Clone](https://www.youtube.com/watch?v=RDV3Z1KCBvo&feature=youtu.be&ck_subscriber_id=857936933)   | A Full-Stack AMAZON Clone using REACT JS | 3-Advanced |
 |  [Flipkart Clone Application](https://www.youtube.com/watch?v=tvdFYmJEaw4&list=PLB_Wd4-5SGAYsxD4JGaVdXll3PnoyI-AM) |A Full-Stack Flipkart Clone using MERN Stack |3-Advanced |
