@@ -9,11 +9,11 @@ authors sometimes have "writers block" it's also true for developers. This list 
 
 These applications are:
 
-- great for improving your coding skills :muscle:;
-- great for experimenting with new technologies 🆕;
-- great for adding to your portfolio to impress your next employer/client :file_folder:;
-- great for using as examples in tutorials (articles or videos) :page_with_curl:;
-- easy to complete and also easily extendable with new features :ok_hand:;
+- Great for improving your coding skills :muscle:;
+- Great for experimenting with new technologies 🆕;
+- Great for adding to your portfolio to impress your next employer/client :file_folder:;
+- Great for using as examples in tutorials (articles or videos) :page_with_curl:;
+- Easy to complete and also easily extendable with new features :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
@@ -49,10 +49,11 @@ required to complete them.
 | Name                                                                              | Short Description                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
 | [Airbnb Clone Application](https://www.youtube.com/watch?v=IQaCL8_bwA4&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=7) | A React App for Airbnb Home page Clone                  | 2-Intermediate |
-| [TMDB Movie App](https://www.youtube.com/watch?v=ufodJVcpmps) |  an interactive Movie Database app using ReactJS.                | 2-Intermediate |
+| [TMDB Movie App](https://www.youtube.com/watch?v=ufodJVcpmps) |  An interactive Movie Database app using ReactJS.                | 2-Intermediate |
 | [Github Jobs App](https://www.youtube.com/watch?v=fxY1q4SCB64&list=LL&index=2) |  A GitHub Jobs App using React Hooks and Github API                | 2-Intermediate |
 | [Weather App](https://www.youtube.com/watch?v=GuA0_Z1llYU) | Weather app in React JS using the Open Weather Map API | 2-Intermediate |
 | [Business Card Generator](https://www.youtube.com/watch?v=mGORpgEOsT4) | A Business Card Generator using React JS | 2-Intermediate |
+| [React Photo Gallery](https://www.youtube.com/watch?v=vUe91uOx7R0) | Photo Gallery App using React JS and Firebase | 2-Intermediate |
 
 
 ### Tier-3: Advanced Projects
@@ -62,8 +63,10 @@ required to complete them.
 | [Facebook Clone Application](https://www.youtube.com/watch?v=B-kxUMHBxNo&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=6)                 | A facebook Clone Application using React JS and Firebase  | 3-Advanced |
 |  [Netflix Clone - FullStack](https://www.youtube.com/watch?v=x_EEwGe-a9o&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=1&t=291s)   | A Netflix clone application using TMDB API | 3-Advanced |
 |  [A COVID-19 Tracker](https://www.youtube.com/watch?v=cF3pIMJUZxM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=2)   | A COVID-19 Tracker using React JS | 3-Advanced |
-
-
+|  [Full-Stack Amazon Clone](https://www.youtube.com/watch?v=RDV3Z1KCBvo&feature=youtu.be&ck_subscriber_id=857936933)   | A Full-Stack AMAZON Clone using REACT JS | 3-Advanced |
+|  [Flipkart Clone Application](https://www.youtube.com/watch?v=tvdFYmJEaw4&list=PLB_Wd4-5SGAYsxD4JGaVdXll3PnoyI-AM) |A Full-Stack Flipkart Clone using MERN Stack |3-Advanced |
+|  [Voting Application - MERN ](https://www.youtube.com/watch?v=0oziV0FLhXc&list=PLBeQxJQNprbgrNfcntLO8N2Y-dzlMZXZe) |A Voting App using MERN Stack |3-Advanced |
+|  [Travel Log - MERN STACK ](https://www.youtube.com/watch?v=5pQsl9u_10M) | Travel Log App using MERN Stack |3-Advanced |
 
 
 ## Plans for the future
@@ -87,4 +90,4 @@ You can also add your own examples to the projects after you have completed them
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
 
-Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback ❤!
+<p align="center"><b>Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback ❤!</b></p>
