@@ -52,8 +52,7 @@ required to complete them.
 | [TMDB Movie App](https://www.youtube.com/watch?v=ufodJVcpmps) |  an interactive Movie Database app using ReactJS.                | 2-Intermediate |
 | [Github Jobs App](https://www.youtube.com/watch?v=fxY1q4SCB64&list=LL&index=2) |  A GitHub Jobs App using React Hooks and Github API                | 2-Intermediate |
 | [Weather App](https://www.youtube.com/watch?v=GuA0_Z1llYU) | Weather app in React JS using the Open Weather Map API | 2-Intermediate |
-
-
+| [Business Card Generator](https://www.youtube.com/watch?v=mGORpgEOsT4) | A Business Card Generator using React JS | 2-Intermediate |
 
 
 ### Tier-3: Advanced Projects
