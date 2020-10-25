@@ -90,4 +90,4 @@ You can also add your own examples to the projects after you have completed them
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
 
-<p align="center"><b>Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback ❤!</b></p>
+<p align="center" width="60%"><b>Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback ❤!</b></p>
