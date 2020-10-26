@@ -58,6 +58,8 @@ required to complete them.
 | [Business Card Generator](https://www.youtube.com/watch?v=mGORpgEOsT4) | A Business Card Generator using React JS | 2-Intermediate |
 | [React Photo Gallery](https://www.youtube.com/watch?v=vUe91uOx7R0) | Photo Gallery App using React JS and Firebase | 2-Intermediate |
 | [Chat-Bot Application](https://www.youtube.com/watch?v=FFT4p6me2g0)|A Chat-Bot which can answer your queries using python|2-Intermediate|
+| [Movie Recomendation Engine](https://www.youtube.com/watch?v=XoTwndOgXBM)| A Movie Recommendation System Using ML|2-Intermediate|
+| [Credit Card Fraud Detection](https://www.youtube.com/watch?v=jCoF1rMs_0s)| Credit Card Fraud Detection using ML |2-Intermediate|
 
 
 ### Tier-3: Advanced Projects
@@ -72,6 +74,9 @@ required to complete them.
 |  [Flipkart Clone Application](https://www.youtube.com/watch?v=tvdFYmJEaw4&list=PLB_Wd4-5SGAYsxD4JGaVdXll3PnoyI-AM) |A Full-Stack Flipkart Clone using MERN Stack |3-Advanced |
 |  [Voting Application - MERN ](https://www.youtube.com/watch?v=0oziV0FLhXc&list=PLBeQxJQNprbgrNfcntLO8N2Y-dzlMZXZe) |A Voting App using MERN Stack |3-Advanced |
 |  [Travel Log - MERN STACK ](https://www.youtube.com/watch?v=5pQsl9u_10M) | Travel Log App using MERN Stack |3-Advanced |
+|  [Discord Clone - MERN STACK ](https://www.youtube.com/watch?v=YzcnqYNXM90) | Discord Clone App using MERN Stack |3-Advanced |
+|  [Messenger Clone - MERN STACK ](https://www.youtube.com/watch?v=8GMx8r9zQXg) | Messenger Clone App using MERN Stack |3-Advanced |
+|  [Tik Tok Clone - MERN STACK ](https://www.youtube.com/watch?v=g8yGxDMyGi) | Tik Tok Clone App using MERN Stack |3-Advanced |
 
 
 ## Plans for the future
