@@ -41,7 +41,10 @@ required to complete them.
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [Chess Game App](https://www.youtube.com/watch?v=SS5amIbX0Mo&list=LL&index=3&t=56s) | A Two Player Chess game application using JavaScript| 1-Beginner |
 | [10 User Interfaces](https://www.youtube.com/watch?v=Rz-rey4Q1bw&list=LL&index=6&t=8839s) | 10 User Interfaces using HTML, CSS and JavaScript| 1-Beginner |
-
+| [Audio Book](https://www.youtube.com/watch?v=Flm2YHEFd5A) | PDF to Audio Book using Python| 1-Beginner |
+| [Face Recognition App](https://www.youtube.com/watch?v=sz25xxF_AVE) | Face Recognition + Attendance using OpenCV| 1-Beginner |
+| [TIC TAC TOE](https://www.youtube.com/watch?v=BHh654_7Cmw) | Tic Tac Toe game using Python| 1-Beginner |
+| [Password Generator](https://www.youtube.com/watch?v=SwgBZ0BQNLQ) | Password Generator App using Python| 1-Beginner |
 
 
 ### Tier-2: Intermediate Projects
