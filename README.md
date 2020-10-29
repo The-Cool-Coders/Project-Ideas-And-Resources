@@ -24,7 +24,7 @@ Each project has the following **features**:
 3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
 4. All the resources and links to help you find what you need to complete the project
 
-## Projects
+## Projects 🚀
 
 Projects are divided into three tiers based on the knowledge and experience
 required to complete them.
@@ -79,20 +79,20 @@ required to complete them.
 |  [Tik Tok Clone - MERN STACK ](https://www.youtube.com/watch?v=g8yGxDMyGi) | Tik Tok Clone App using MERN Stack |3-Advanced |
 
 
-## Plans for the future
+## Plans for the future ⚡
 
 We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
 
 We are also planning to create a website where you can easily browse through all of the projects.
 
-## Contribution
+## Contribution ❤
 
 Any contributions are highly appreciated. :pray: You can contribute in two ways:
 
 1. create an issue and tell us your idea :bulb:. Make sure that you use the **new idea** label in this case;
 2. fork the project and submit a PR with your new idea. Before doing that, please make sure that you read and follow the [Contribution Guide](./CONTRIBUTING.md);
 
-### Examples
+### Examples ☘
 
 You can also add your own examples to the projects after you have completed them. I highly encourage you to do this as it will show others what amazing things were built! 👍
 
