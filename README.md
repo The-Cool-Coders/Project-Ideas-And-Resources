@@ -101,6 +101,10 @@ Any contributions are highly appreciated. :pray: You can contribute in two ways:
 
 You can also add your own examples to the projects after you have completed them. I highly encourage you to do this as it will show others what amazing things were built! 👍
 
+### Resources 🔗
+
+- [Awesome Github Repositories](https://dev.to/denicmarko/github-repositories-to-improve-your-programming-skills-2d1e)
+
 ## Spread the word!
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
