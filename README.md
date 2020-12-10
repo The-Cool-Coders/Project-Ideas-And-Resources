@@ -62,7 +62,7 @@ required to complete them.
 | [Chat-Bot Application](https://www.youtube.com/watch?v=FFT4p6me2g0)|A Chat-Bot which can answer your queries using python|2-Intermediate|
 | [Movie Recomendation Engine](https://www.youtube.com/watch?v=XoTwndOgXBM)| A Movie Recommendation System Using ML|2-Intermediate|
 | [Credit Card Fraud Detection](https://www.youtube.com/watch?v=jCoF1rMs_0s)| Credit Card Fraud Detection using ML |2-Intermediate|
-| [Wildfire Tracker With React & NASA API](https://www.youtube.com/watch?v=ontX4zfVqK8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=17)| Wild Fire Detection using React, NASA API |2-Intermediate|
+| [Wildfire Tracker With React](https://www.youtube.com/watch?v=ontX4zfVqK8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=17)| Wild Fire Detection using React, NASA API |2-Intermediate|
 
 
 
