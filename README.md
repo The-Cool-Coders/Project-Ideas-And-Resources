@@ -104,6 +104,8 @@ You can also add your own examples to the projects after you have completed them
 ### Resources 🔗
 
 - [Awesome Github Repositories](https://dev.to/denicmarko/github-repositories-to-improve-your-programming-skills-2d1e)
+- [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
+- [Programming Slides](https://marko-knoebl.github.io/slides/)
 
 ## Spread the word!
 
