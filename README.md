@@ -106,6 +106,7 @@ You can also add your own examples to the projects after you have completed them
 - [Awesome Github Repositories](https://dev.to/denicmarko/github-repositories-to-improve-your-programming-skills-2d1e)
 - [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 - [Programming Slides](https://marko-knoebl.github.io/slides/)
+- [500 Data Structures and Algorithms Problems](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 
 ## Spread the word!
 
