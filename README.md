@@ -84,6 +84,14 @@ required to complete them.
 |  [Robinhood Clone](https://www.youtube.com/watch?v=TxggrQ0nHjY&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=18) | Robinhood Clone using React JS |3-Advanced |
 
 
+## Awesome Tutorials
+
+| TOPIC                                                                     | TUTOR                                            | 
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [MERN STACK Tutorial](https://www.youtube.com/watch?v=ktjafK4SgWM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=20&t=584s)                 | Clever Programmer  | 
+
+
+
 ## Plans for the future ⚡
 
 We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
