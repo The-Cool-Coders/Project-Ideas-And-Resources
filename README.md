@@ -89,7 +89,8 @@ required to complete them.
 | TOPIC                                                                     | TUTOR                                            | 
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [MERN STACK Tutorial](https://www.youtube.com/watch?v=ktjafK4SgWM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=20&t=584s)                 | Clever Programmer  | 
-
+| [React JS Tutorial](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=3159s)                 | FreeCodeCamp  | 
+| [Django Tutorial](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)                 | Clever Programmer  | 
 
 
 ## Plans for the future ⚡
