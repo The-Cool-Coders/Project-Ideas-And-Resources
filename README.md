@@ -82,6 +82,9 @@ required to complete them.
 |  [Messenger Clone - MERN STACK ](https://www.youtube.com/watch?v=8GMx8r9zQXg) | Messenger Clone App using MERN Stack |3-Advanced |
 |  [Tik Tok Clone - MERN STACK ](https://www.youtube.com/watch?v=g8yGxDMyGi) | Tik Tok Clone App using MERN Stack |3-Advanced |
 |  [Robinhood Clone](https://www.youtube.com/watch?v=TxggrQ0nHjY&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=18) | Robinhood Clone using React JS |3-Advanced |
+|  [LinkedIn Clone]() | LinkedIn Clone using React JS |3-Advanced |
+|
+
 
 
 ## Awesome Tutorials
@@ -90,7 +93,10 @@ required to complete them.
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [MERN STACK Tutorial](https://www.youtube.com/watch?v=ktjafK4SgWM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=20&t=584s)                 | Clever Programmer  | 
 | [React JS Tutorial](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=3159s)                 | FreeCodeCamp  | 
-| [Django Tutorial](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)                 | Clever Programmer  | 
+| [Django Tutorial](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)                 | Clever Programmer  |
+| [Full Stack GraphQL React](https://www.youtube.com/watch?v=I6ypD7qv3Z8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=21&t=419s)                 | Ben Awad  | 
+| [React Projects](https://www.youtube.com/watch?v=ly3m6mv5qvg&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=13)                 | Coding Addict  | 
+
 
 
 ## Plans for the future ⚡
