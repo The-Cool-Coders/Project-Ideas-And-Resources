@@ -121,6 +121,14 @@ You can also add your own examples to the projects after you have completed them
 - [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/)
 - [Programming Slides](https://marko-knoebl.github.io/slides/)
 - [500 Data Structures and Algorithms Problems](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+- [8 Websites to get free PNG Images](https://www.instagram.com/p/CKZOtSRAlzi/?igshid=4exf5ik7vphu)
+- [Front-End Challenge Websites](https://www.instagram.com/p/CKEeFaJALI_/)
+
+### Articles
+
+- [React for Beginners – A React.js Handbook for Front End Developers](https://www.freecodecamp.org/news/react-beginner-handbook/)
+- [React Movie App Tutorial - Build A Fun Portfolio Project with React and the OMBD API](https://www.freecodecamp.org/news/react-movie-app-tutorial/)
+- [Learn React.js by Building Projects – Create a Birthday Reminder App](https://www.freecodecamp.org/news/react-practice-project-birthday-reminder-app/)
 
 ## Spread the word!
 
