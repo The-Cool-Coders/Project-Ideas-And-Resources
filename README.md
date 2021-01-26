@@ -95,7 +95,7 @@ required to complete them.
 | [Django Tutorial](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)                 | Clever Programmer  |
 | [Full Stack GraphQL React](https://www.youtube.com/watch?v=I6ypD7qv3Z8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=21&t=419s)                 | Ben Awad  | 
 | [React Projects](https://www.youtube.com/watch?v=ly3m6mv5qvg&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=13)                 | Coding Addict  | 
-
+| [PHP Tutorial](https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)                 | CodeWithHarry  | 
 
 
 ## Plans for the future ⚡
