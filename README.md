@@ -63,6 +63,7 @@ required to complete them.
 | [Movie Recomendation Engine](https://www.youtube.com/watch?v=XoTwndOgXBM)| A Movie Recommendation System Using ML|2-Intermediate|
 | [Credit Card Fraud Detection](https://www.youtube.com/watch?v=jCoF1rMs_0s)| Credit Card Fraud Detection using ML |2-Intermediate|
 | [Wildfire Tracker With React](https://www.youtube.com/watch?v=ontX4zfVqK8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=17)| Wild Fire Detection using React, NASA API |2-Intermediate|
+| [Google Drive Clone With React](https://www.youtube.com/watch?v=ljuCH6_jrYE)| Google Drive Clone using React, Firebase |2-Intermediate|
 
 
 
