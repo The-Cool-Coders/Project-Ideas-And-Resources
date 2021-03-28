@@ -126,6 +126,8 @@ You can also add your own examples to the projects after you have completed them
 - [500 Data Structures and Algorithms Problems](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 - [8 Websites to get free PNG Images](https://www.instagram.com/p/CKZOtSRAlzi/?igshid=4exf5ik7vphu)
 - [Front-End Challenge Websites](https://www.instagram.com/p/CKEeFaJALI_/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+
 
 ### Articles
 
