@@ -136,6 +136,7 @@ You can also add your own examples to the projects after you have completed them
 - [Learn React.js by Building Projects – Create a Birthday Reminder App](https://www.freecodecamp.org/news/react-practice-project-birthday-reminder-app/)
 - [Ultimate React Resources](https://dev.to/hulyakarakaya/ultimate-react-resources-obl)
 - [Instagram Clone with React, Tailwind CSS, Firebase](https://www.youtube.com/watch?v=mDgEqoQUBgk&list=LL&index=1&t=14s)
+- [Combining React and D3.js](https://wattenberger.com/blog/react-and-d3)
 
 
 ## Spread the word!
