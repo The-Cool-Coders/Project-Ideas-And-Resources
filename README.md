@@ -101,7 +101,7 @@ required to complete them.
 | [PHP Tutorial](https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)                 | CodeWithHarry  | 
 | [React Native Projects Playlist](https://www.youtube.com/watch?v=diUDjNwZ8Lg&list=RDCMUC3_z0yLxjNQpgGoc5VWuV2A)                 | ByProgrammers | 
 | [Spring Framework Tutorial](https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS)                 | LearnCodeWith Durgesh | 
-
+| [React JS Resume and Portfolio Website](https://youtube.com/playlist?list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1)                 | Salman Fazal | 
 
 
 ## Plans for the future ⚡
