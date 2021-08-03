@@ -103,6 +103,8 @@ required to complete them.
 | [Spring Framework Tutorial](https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS)                 | LearnCodeWith Durgesh | 
 | [JSP & Servlets Tutorial](https://www.youtube.com/watch?v=xve6QEgIR-0&list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb)                 | LearnCodeWith Durgesh | 
 | [React JS Resume and Portfolio Website](https://youtube.com/playlist?list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1)                 | Salman Fazal | 
+| [100 Days of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)                 | Anais Urlichs | 
+
 
 
 ## Plans for the future ⚡
