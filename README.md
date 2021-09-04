@@ -1,4 +1,4 @@
-# Project Ideas and Resources ⚡
+# Project Ideas and Resources ⚡💙
 
 ![head](https://user-images.githubusercontent.com/61475220/97102081-807edc80-16c8-11eb-901c-f7d332efa79c.png)
 
@@ -133,6 +133,15 @@ You can also add your own examples to the projects after you have completed them
 - [8 Websites to get free PNG Images](https://www.instagram.com/p/CKZOtSRAlzi/?igshid=4exf5ik7vphu)
 - [Front-End Challenge Websites](https://www.instagram.com/p/CKEeFaJALI_/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [18 amazing GitHub repositories that will make a Beautiful Project](https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo)
+
+#### Design Resources 
+
+- [CSS Icon Pack](https://css.gg/)
+- [Icon Store](https://iconstore.co/)
+- [Tilda Icons](https://tilda.cc/free-icons/)
+- [Ikonate Icons](https://ikonate.com/)
+- [Eva Icons](https://akveo.github.io/eva-icons/#/)
 
 
 ### Articles
