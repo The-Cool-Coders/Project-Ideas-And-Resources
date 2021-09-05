@@ -143,6 +143,17 @@ You can also add your own examples to the projects after you have completed them
 - [Ikonate Icons](https://ikonate.com/)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
 
+#### Awesome APIS for Front-End Developers
+
+- [The MovieDB API](https://www.themoviedb.org/documentation/api)
+- [The NASA API](https://api.nasa.gov/)
+- [Frank Furter API](https://www.frankfurter.app/)
+- [The MealDB API](https://www.themealdb.com/api.php)
+- [Responsive Voice API](https://responsivevoice.org/api/)
+
+#### Awesome Dev Tools
+
+- [Git Ignore Generator](https://www.toptal.com/developers/gitignore)
 
 ### Articles
 
