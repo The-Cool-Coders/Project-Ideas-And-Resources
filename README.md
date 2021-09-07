@@ -86,7 +86,9 @@ required to complete them.
 |  [LinkedIn Clone](https://www.youtube.com/watch?v=QaYts9sPmcY&t=3s) | LinkedIn Clone using React JS |3-Advanced |
 |  [Signal Clone](https://www.youtube.com/watch?v=MJzmZ9qmdaE) | Signal Clone using React JS |3-Advanced |
 |  [Gmail Clone](https://www.youtube.com/watch?v=b7nrXjS6Dqs) | Gmail Clone using React JS |3-Advanced |
-
+|  [E-Commerce Application](https://www.youtube.com/watch?v=XtciU6BnQdo) | MongoDB, Reactjs, Nextjs |3-Advanced |
+|  [Full Stack NFT Marketplace](https://www.youtube.com/watch?v=GKJBEEXUha0) | Ethereum, Polygon and Next.js |3-Advanced |
+|  [Invoice Application](https://www.youtube.com/watch?v=vsJtN54aA7w) | Vue 3, Vuex & Firebase |3-Advanced |
 
 
 ## Awesome Tutorials
