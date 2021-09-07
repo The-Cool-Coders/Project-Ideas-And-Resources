@@ -169,7 +169,7 @@ You can also add your own examples to the projects after you have completed them
 
 ## ✨ Hall Of Contributors
 
-Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
+Thanks goes to all these Wonderful People. Contributions of any kind are welcome!🚀
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
