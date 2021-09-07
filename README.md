@@ -167,6 +167,18 @@ You can also add your own examples to the projects after you have completed them
 - [Combining React and D3.js](https://wattenberger.com/blog/react-and-d3)
 
 
+## ✨ Hall Of Contributors
+
+Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<a href="https://github.com/The-Cool-Coders/Project-Ideas-And-Resources/contributors">
+  <img src="https://contrib.rocks/image?repo=The-Cool-Coders/Project-Ideas-And-Resources" />
+</a>
+
 ## Spread the word!
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
