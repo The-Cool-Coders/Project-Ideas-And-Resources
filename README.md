@@ -120,7 +120,7 @@ We are also planning to create a website where you can easily browse through all
 Any contributions are highly appreciated. :pray: You can contribute in two ways:
 
 1. create an issue and tell us your idea :bulb:. Make sure that you use the **new idea** label in this case;
-2. fork the project and submit a PR with your new idea. Before doing that, please make sure that you read and follow the [Contribution Guide](./CONTRIBUTING.md);
+2. fork the project and submit a PR with your new idea. Before doing that, please make sure that you read and follow the [Contribution Guide](./CONTRIBUTION.md);
 
 ### Examples ☘
 
@@ -169,7 +169,7 @@ You can also add your own examples to the projects after you have completed them
 
 ## ✨ Hall Of Contributors
 
-Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
+Thanks goes to all these Wonderful People. Contributions of any kind are welcome!🚀
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
