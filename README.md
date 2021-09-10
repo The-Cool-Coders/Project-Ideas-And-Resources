@@ -145,6 +145,11 @@ You can also add your own examples to the projects after you have completed them
 - [Tilda Icons](https://tilda.cc/free-icons/)
 - [Ikonate Icons](https://ikonate.com/)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
+- [Funky Scribbles](https://www.scribbbles.design/)
+- [Befonts](https://befonts.com/)
+- [World Vector Logo](https://worldvectorlogo.com/)
+- [Logoipsum](https://logoipsum.com/)
+- [Streamlined Icons](https://streamlinehq.com/)
 
 #### Awesome APIS for Front-End Developers
 
