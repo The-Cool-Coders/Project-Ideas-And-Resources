@@ -185,6 +185,8 @@ Thanks goes to all these Wonderful People. Contributions of any kind are welcome
   <img src="https://contrib.rocks/image?repo=The-Cool-Coders/Project-Ideas-And-Resources" />
 </a>
 
+Looking for Great Contributions from all the open source enthusiasts for making this repository even bigger! Do follow the steps mentioned in Contributing.md file for succesful PRs
+
 ## Spread the word!
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
