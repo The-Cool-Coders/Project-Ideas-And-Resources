@@ -1,4 +1,4 @@
-<h2 align="center">Thanks for deciding to contribute to the Repository 🎉</h2>
+<h2 align="center">Thanks for deciding to contribute to the Repository 🎉💡</h2>
 
 ### How to contribute ✔ ?
 
