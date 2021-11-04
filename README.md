@@ -107,7 +107,7 @@ required to complete them.
 | [React JS Resume and Portfolio Website](https://youtube.com/playlist?list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1)                 | Salman Fazal | 
 | [5 Spring Boot Projects](https://www.youtube.com/watch?v=VR1zoNomG3w)                 | Java Guides | 
 | [100 Days of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)                 | Anais Urlichs | 
-
+| [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)                 | Les Jackson | 
 
 
 ## Plans for the future ⚡
