@@ -108,6 +108,7 @@ required to complete them.
 | [5 Spring Boot Projects](https://www.youtube.com/watch?v=VR1zoNomG3w)                 | Java Guides | 
 | [100 Days of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)                 | Anais Urlichs | 
 | [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)                 | Les Jackson | 
+| [.NET Micro Services](https://www.youtube.com/watch?v=DgVjEo3OGBI)                 | Les Jackson | 
 
 
 ## Plans for the future ⚡
