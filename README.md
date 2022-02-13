@@ -159,6 +159,7 @@ You can also add your own examples to the projects after you have completed them
 - [Frank Furter API](https://www.frankfurter.app/)
 - [The MealDB API](https://www.themealdb.com/api.php)
 - [Responsive Voice API](https://responsivevoice.org/api/)
+- [Crypto Currencies API](https://www.coinapi.io/)
 
 #### Awesome Dev Tools
 
@@ -172,6 +173,7 @@ You can also add your own examples to the projects after you have completed them
 - [Ultimate React Resources](https://dev.to/hulyakarakaya/ultimate-react-resources-obl)
 - [Instagram Clone with React, Tailwind CSS, Firebase](https://www.youtube.com/watch?v=mDgEqoQUBgk&list=LL&index=1&t=14s)
 - [Combining React and D3.js](https://wattenberger.com/blog/react-and-d3)
+- [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
 
 
 ## ✨ Hall Of Contributors
