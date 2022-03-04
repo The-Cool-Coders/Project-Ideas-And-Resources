@@ -161,6 +161,7 @@ You can also add your own examples to the projects after you have completed them
 - [The MealDB API](https://www.themealdb.com/api.php)
 - [Responsive Voice API](https://responsivevoice.org/api/)
 - [Crypto Currencies API](https://www.coinapi.io/)
+- [Placeholder Image API](https://lorem.space/)
 
 #### Awesome Dev Tools
 
