@@ -138,6 +138,7 @@ You can also add your own examples to the projects after you have completed them
 - [Front-End Challenge Websites](https://www.instagram.com/p/CKEeFaJALI_/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [18 amazing GitHub repositories that will make a Beautiful Project](https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo)
+- [Crypto Dev Hub](https://cryptodevhub.io/)
 
 #### Design Resources 
 
