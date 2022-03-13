@@ -152,6 +152,7 @@ You can also add your own examples to the projects after you have completed them
 - [World Vector Logo](https://worldvectorlogo.com/)
 - [Logoipsum](https://logoipsum.com/)
 - [Streamlined Icons](https://streamlinehq.com/)
+- [Patterns Dev - Modern Design Patterns](https://www.patterns.dev/)
 
 #### Awesome APIS for Front-End Developers
 
