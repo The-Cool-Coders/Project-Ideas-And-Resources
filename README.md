@@ -89,6 +89,7 @@ required to complete them.
 |  [E-Commerce Application](https://www.youtube.com/watch?v=XtciU6BnQdo) | MongoDB, Reactjs, Nextjs |3-Advanced |
 |  [Full Stack NFT Marketplace](https://www.youtube.com/watch?v=GKJBEEXUha0) | Ethereum, Polygon and Next.js |3-Advanced |
 |  [Invoice Application](https://www.youtube.com/watch?v=vsJtN54aA7w) | Vue 3, Vuex & Firebase |3-Advanced |
+|  [Full-Stack Twitter Clone](https://www.youtube.com/watch?v=5Wak0iyGCrc&t) | Next JS, Recoil JS, Tailwind CSS, Nextauth & Firebase |3-Advanced |
 
 
 ## Awesome Tutorials
