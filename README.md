@@ -47,6 +47,7 @@ required to complete them.
 | [Password Generator](https://www.youtube.com/watch?v=SwgBZ0BQNLQ) | Password Generator App using Python| 1-Beginner |
 | [PDF to Audio Book Converter](https://www.youtube.com/watch?v=kyZ_5cvrXJI&list=WL&index=18) | PDF to Audio Book using Python| 1-Beginner |
 | [ToDo App](https://www.youtube.com/watch?v=yKHJsLUENl0) | ToDo app using flask and SQLAlchemy| 1-Beginner |
+| [Weather App using JS](https://www.youtube.com/watch?v=OE7kml0pigw) | Weather App using openWeatherMap API in JS| 1-Beginner |
 
 
 
@@ -91,6 +92,7 @@ required to complete them.
 |  [Full Stack NFT Marketplace](https://www.youtube.com/watch?v=GKJBEEXUha0) | Ethereum, Polygon and Next.js |3-Advanced |
 |  [Invoice Application](https://www.youtube.com/watch?v=vsJtN54aA7w) | Vue 3, Vuex & Firebase |3-Advanced |
 |  [Full-Stack Twitter Clone](https://www.youtube.com/watch?v=5Wak0iyGCrc&t) | Next JS, Recoil JS, Tailwind CSS, Nextauth & Firebase |3-Advanced |
+|  [WhatsApp Clone](https://www.youtube.com/playlist?list=PLKWa_W4Kolgzsv7VULZm5lBDP8vRpD1H1) | A Full-Stack WhatsApp clone using React JS, Firebase |3-Advanced |
 
 
 ## Awesome Tutorials
