@@ -90,6 +90,12 @@ required to complete them.
 |  [Full Stack NFT Marketplace](https://www.youtube.com/watch?v=GKJBEEXUha0) | Ethereum, Polygon and Next.js |3-Advanced |
 |  [Invoice Application](https://www.youtube.com/watch?v=vsJtN54aA7w) | Vue 3, Vuex & Firebase |3-Advanced |
 
+### DApp and Blockchain Projects - 
+
+| Name                                                                          | Short Description                                                   | Tier       |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
+| [Domain Site like Godaddy](https://www.youtube.com/watch?v=kUTdr1dStxA&t)                 | Web 3.0 Domain Site like Godaddy  | 2-Basic |
+
 
 ## Awesome Tutorials
 
