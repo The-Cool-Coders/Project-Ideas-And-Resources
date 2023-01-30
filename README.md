@@ -91,6 +91,12 @@ required to complete them.
 |  [Invoice Application](https://www.youtube.com/watch?v=vsJtN54aA7w) | Vue 3, Vuex & Firebase |3-Advanced |
 |  [Full-Stack Twitter Clone](https://www.youtube.com/watch?v=5Wak0iyGCrc&t) | Next JS, Recoil JS, Tailwind CSS, Nextauth & Firebase |3-Advanced |
 
+### DApp and Blockchain Projects - 
+
+| Name                                                                          | Short Description                                                   | Tier       |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
+| [Domain Site like Godaddy](https://www.youtube.com/watch?v=kUTdr1dStxA&t)                 | Web 3.0 Domain Site like Godaddy  | 2-Basic |
+
 
 ## Awesome Tutorials
 
