@@ -96,7 +96,8 @@ required to complete them.
 | Name                                                                          | Short Description                                                   | Tier       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
 | [Domain Site like Godaddy](https://www.youtube.com/watch?v=kUTdr1dStxA&t)                 | Web 3.0 Domain Site like Godaddy  | 2-Basic |
-
+| [Amazon Clone using Solidity](https://www.youtube.com/watch?v=X1ahXNYkpL8)                 | Solidity, Ethers.js, React & Hardhat  | 2-Basic |
+| [Real Estate App like Zillow](https://www.youtube.com/watch?v=C4blK6X-D_4)                 | Solidity, Ethereum, Hardhat, React  | 2-Basic |
 
 ## Awesome Tutorials
 
