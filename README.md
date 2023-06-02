@@ -64,6 +64,8 @@ required to complete them.
 | [Credit Card Fraud Detection](https://www.youtube.com/watch?v=jCoF1rMs_0s)| Credit Card Fraud Detection using ML |2-Intermediate|
 | [Wildfire Tracker With React](https://www.youtube.com/watch?v=ontX4zfVqK8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=17)| Wild Fire Detection using React, NASA API |2-Intermediate|
 | [Google Drive Clone With React](https://www.youtube.com/watch?v=ljuCH6_jrYE)| Google Drive Clone using React, Firebase |2-Intermediate|
+| [Fitness App](https://www.youtube.com/watch?v=KMkmA4i2FQc)| A fitness app that sends you new workouts per email every day using Python and HarperDB. |2-Intermediate|
+
 
 
 
