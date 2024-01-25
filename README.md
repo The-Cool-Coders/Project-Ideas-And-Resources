@@ -1,4 +1,4 @@
-# Project Ideas and Resources ⚡💙⚡
+Project Ideas and Resources ⚡💙⚡
 
 ![head](https://user-images.githubusercontent.com/61475220/97102081-807edc80-16c8-11eb-901c-f7d332efa79c.png)
 
@@ -49,7 +49,7 @@ required to complete them.
 
 
 
-### Tier-2: Intermediate Projects
+Tier-2: Intermediate Projects
 
 | Name                                                                              | Short Description                                  | Tier           |
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
