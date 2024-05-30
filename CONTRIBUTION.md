@@ -1,5 +1,5 @@
 <h2 align="center">Thanks for deciding to contribute to the Repository 🎉💡</h2>
-
+<h2 align="center"> edited </h2>
 ### How to contribute ✔ ?
 
 If you'd like to contribute, start by searching through the issues and pull requests to see whether someone else has raised a similar idea or question.
