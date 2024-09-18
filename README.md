@@ -120,6 +120,8 @@ required to complete them.
 | [100 Days of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)                 | Anais Urlichs | 
 | [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)                 | Les Jackson | 
 | [.NET Micro Services](https://www.youtube.com/watch?v=DgVjEo3OGBI)                 | Les Jackson | 
+| [Complete Git and GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics)               | Kunal Kushwaha |
+ 
 
 
 ## Plans for the future ⚡
