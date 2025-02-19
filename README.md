@@ -178,6 +178,7 @@ You can also add your own examples to the projects after you have completed them
 #### Awesome Dev Tools
 
 - [Git Ignore Generator](https://www.toptal.com/developers/gitignore)
+- [CORS-Tester](https://cors-error.dev/cors-tester/)
 
 ### Articles
 
