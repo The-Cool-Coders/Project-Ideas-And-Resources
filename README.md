@@ -112,6 +112,7 @@ required to complete them.
 | [Full Stack GraphQL React](https://www.youtube.com/watch?v=I6ypD7qv3Z8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=21&t=419s)                 | Ben Awad  | 
 | [React Projects](https://www.youtube.com/watch?v=ly3m6mv5qvg&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=13)                 | Coding Addict  | 
 | [PHP Tutorial](https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)                 | CodeWithHarry  | 
+| [NextJS Tutorial](https://www.youtube.com/watch?v=OgS1ZWZItno&list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq&index=1)      | Chai aur Code  |
 | [React Native Projects Playlist](https://www.youtube.com/watch?v=diUDjNwZ8Lg&list=RDCMUC3_z0yLxjNQpgGoc5VWuV2A)                 | ByProgrammers | 
 | [Spring Framework Tutorial](https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS)                 | LearnCodeWith Durgesh | 
 | [JSP & Servlets Tutorial](https://www.youtube.com/watch?v=xve6QEgIR-0&list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb)                 | LearnCodeWith Durgesh | 
