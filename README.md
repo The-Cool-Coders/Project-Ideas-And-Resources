@@ -43,7 +43,7 @@ required to complete them.
 | [10 User Interfaces](https://www.youtube.com/watch?v=Rz-rey4Q1bw&list=LL&index=6&t=8839s) | 10 User Interfaces using HTML, CSS and JavaScript| 1-Beginner |
 | [Audio Book](https://www.youtube.com/watch?v=Flm2YHEFd5A) | PDF to Audio Book using Python| 1-Beginner |
 | [Face Recognition App](https://www.youtube.com/watch?v=sz25xxF_AVE) | Face Recognition + Attendance using OpenCV| 1-Beginner |
-- [ Build Brand Page](https://www.youtube.com/watch?v=W7up-w1QYpw&ab_channel=DoSomeCoding)| Design with React| 1-Begineer |
+| [ Build Brand Page](https://www.youtube.com/watch?v=W7up-w1QYpw&ab_channel=DoSomeCoding)| Design with React| 1-Beginner |
 | [TIC TAC TOE](https://www.youtube.com/watch?v=BHh654_7Cmw) | Tic Tac Toe game using Python| 1-Beginner |
 | [Password Generator](https://www.youtube.com/watch?v=SwgBZ0BQNLQ) | Password Generator App using Python| 1-Beginner |
 | [PDF to Audio Book Converter](https://www.youtube.com/watch?v=kyZ_5cvrXJI&list=WL&index=18) | PDF to Audio Book using Python| 1-Beginner |
@@ -61,7 +61,7 @@ required to complete them.
 | [Business Card Generator](https://www.youtube.com/watch?v=mGORpgEOsT4) | A Business Card Generator using React JS | 2-Intermediate |
 | [React Photo Gallery](https://www.youtube.com/watch?v=vUe91uOx7R0) | Photo Gallery App using React JS and Firebase | 2-Intermediate |
 | [Chat-Bot Application](https://www.youtube.com/watch?v=FFT4p6me2g0)|A Chat-Bot which can answer your queries using python|2-Intermediate|
-| [Movie Recomendation Engine](https://www.youtube.com/watch?v=XoTwndOgXBM)| A Movie Recommendation System Using ML|2-Intermediate|
+| [Movie Recommendation Engine](https://www.youtube.com/watch?v=XoTwndOgXBM)| A Movie Recommendation System Using ML|2-Intermediate|
 | [Credit Card Fraud Detection](https://www.youtube.com/watch?v=jCoF1rMs_0s)| Credit Card Fraud Detection using ML |2-Intermediate|
 | [Wildfire Tracker With React](https://www.youtube.com/watch?v=ontX4zfVqK8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=17)| Wild Fire Detection using React, NASA API |2-Intermediate|
 | [Google Drive Clone With React](https://www.youtube.com/watch?v=ljuCH6_jrYE)| Google Drive Clone using React, Firebase |2-Intermediate|
