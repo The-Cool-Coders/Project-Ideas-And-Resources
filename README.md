@@ -43,7 +43,7 @@ required to complete them.
 | [10 User Interfaces](https://www.youtube.com/watch?v=Rz-rey4Q1bw&list=LL&index=6&t=8839s) | 10 User Interfaces using HTML, CSS and JavaScript| 1-Beginner |
 | [Audio Book](https://www.youtube.com/watch?v=Flm2YHEFd5A) | PDF to Audio Book using Python| 1-Beginner |
 | [Face Recognition App](https://www.youtube.com/watch?v=sz25xxF_AVE) | Face Recognition + Attendance using OpenCV| 1-Beginner |
-- [ Build Brand Page](https://www.youtube.com/watch?v=W7up-w1QYpw&ab_channel=DoSomeCoding)| Design with React| 1-Begineer |
+- [ Build Brand Page](https://www.youtube.com/watch?v=W7up-w1QYpw&ab_channel=DoSomeCoding)| Design with React| 1-Beginner |
 | [TIC TAC TOE](https://www.youtube.com/watch?v=BHh654_7Cmw) | Tic Tac Toe game using Python| 1-Beginner |
 | [Password Generator](https://www.youtube.com/watch?v=SwgBZ0BQNLQ) | Password Generator App using Python| 1-Beginner |
 | [PDF to Audio Book Converter](https://www.youtube.com/watch?v=kyZ_5cvrXJI&list=WL&index=18) | PDF to Audio Book using Python| 1-Beginner |
@@ -61,7 +61,7 @@ required to complete them.
 | [Business Card Generator](https://www.youtube.com/watch?v=mGORpgEOsT4) | A Business Card Generator using React JS | 2-Intermediate |
 | [React Photo Gallery](https://www.youtube.com/watch?v=vUe91uOx7R0) | Photo Gallery App using React JS and Firebase | 2-Intermediate |
 | [Chat-Bot Application](https://www.youtube.com/watch?v=FFT4p6me2g0)|A Chat-Bot which can answer your queries using python|2-Intermediate|
-| [Movie Recomendation Engine](https://www.youtube.com/watch?v=XoTwndOgXBM)| A Movie Recommendation System Using ML|2-Intermediate|
+| [Movie Recommendation Engine](https://www.youtube.com/watch?v=XoTwndOgXBM)| A Movie Recommendation System Using ML|2-Intermediate|
 | [Credit Card Fraud Detection](https://www.youtube.com/watch?v=jCoF1rMs_0s)| Credit Card Fraud Detection using ML |2-Intermediate|
 | [Wildfire Tracker With React](https://www.youtube.com/watch?v=ontX4zfVqK8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=17)| Wild Fire Detection using React, NASA API |2-Intermediate|
 | [Google Drive Clone With React](https://www.youtube.com/watch?v=ljuCH6_jrYE)| Google Drive Clone using React, Firebase |2-Intermediate|
@@ -74,11 +74,11 @@ required to complete them.
 
 | Name                                                                          | Short Description                                                   | Tier       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
-| [Facebook Clone Application](https://www.youtube.com/watch?v=B-kxUMHBxNo&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=6)                 | A facebook Clone Application using React JS and Firebase  | 3-Advanced |
+| [Facebook Clone Application](https://www.youtube.com/watch?v=B-kxUMHBxNo&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=6)                 | A Facebook Clone Application using React JS and Firebase  | 3-Advanced |
 |  [Netflix Clone - FullStack](https://www.youtube.com/watch?v=x_EEwGe-a9o&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=1&t=291s)   | A Netflix clone application using TMDB API | 3-Advanced |
 | [Instagram Clone Application](https://www.youtube.com/watch?v=f7T48W0cwXM)|An Instagram Clone application using React JS|3-Advanced|
 |  [A COVID-19 Tracker](https://www.youtube.com/watch?v=cF3pIMJUZxM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=2)   | A COVID-19 Tracker using React JS | 3-Advanced |
-|  [Full-Stack Amazon Clone](https://www.youtube.com/watch?v=RDV3Z1KCBvo&feature=youtu.be&ck_subscriber_id=857936933)   | A Full-Stack AMAZON Clone using REACT JS | 3-Advanced |
+|  [Full-Stack Amazon Clone](https://www.youtube.com/watch?v=RDV3Z1KCBvo&feature=youtu.be&ck_subscriber_id=857936933)   | A Full-Stack Amazon Clone using REACT JS | 3-Advanced |
 |  [Flipkart Clone Application](https://www.youtube.com/watch?v=tvdFYmJEaw4&list=PLB_Wd4-5SGAYsxD4JGaVdXll3PnoyI-AM) |A Full-Stack Flipkart Clone using MERN Stack |3-Advanced |
 |  [Voting Application - MERN ](https://www.youtube.com/watch?v=0oziV0FLhXc&list=PLBeQxJQNprbgrNfcntLO8N2Y-dzlMZXZe) |A Voting App using MERN Stack |3-Advanced |
 |  [Travel Log - MERN STACK ](https://www.youtube.com/watch?v=5pQsl9u_10M) | Travel Log App using MERN Stack |3-Advanced |
@@ -202,7 +202,7 @@ Thanks goes to all these Wonderful People. Contributions of any kind are welcome
   <img src="https://contrib.rocks/image?repo=The-Cool-Coders/Project-Ideas-And-Resources" />
 </a>
 
-Looking for Great Contributions from all the open source enthusiasts for making this repository even bigger! Do follow the steps mentioned in Contributing.md file for succesful PRs
+Looking for Great Contributions from all the open source enthusiasts for making this repository even bigger! Do follow the steps mentioned in CONTRIBUTION.md file for successful PRs
 
 ## Spread the word!
 
