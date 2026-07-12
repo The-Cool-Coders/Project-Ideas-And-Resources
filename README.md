@@ -94,7 +94,7 @@ required to complete them.
 |  [Invoice Application](https://www.youtube.com/watch?v=vsJtN54aA7w) | Vue 3, Vuex & Firebase |3-Advanced |
 |  [Full-Stack Twitter Clone](https://www.youtube.com/watch?v=5Wak0iyGCrc&t) | Next JS, Recoil JS, Tailwind CSS, Nextauth & Firebase |3-Advanced |
 
-### DApp and Blockchain Projects - 
+### DApp and Blockchain Projects -
 
 | Name                                                                          | Short Description                                                   | Tier       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
@@ -104,22 +104,22 @@ required to complete them.
 
 ## Awesome Tutorials
 
-| TOPIC                                                                     | TUTOR                                            | 
+| TOPIC                                                                     | TUTOR                                            |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [MERN STACK Tutorial](https://www.youtube.com/watch?v=ktjafK4SgWM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=20&t=584s)                 | Clever Programmer  | 
-| [React JS Tutorial](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=3159s)                 | FreeCodeCamp  | 
+| [MERN STACK Tutorial](https://www.youtube.com/watch?v=ktjafK4SgWM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=20&t=584s)                 | Clever Programmer  |
+| [React JS Tutorial](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=3159s)                 | FreeCodeCamp  |
 | [Django Tutorial](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)                 | Clever Programmer  |
-| [Full Stack GraphQL React](https://www.youtube.com/watch?v=I6ypD7qv3Z8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=21&t=419s)                 | Ben Awad  | 
-| [React Projects](https://www.youtube.com/watch?v=ly3m6mv5qvg&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=13)                 | Coding Addict  | 
-| [PHP Tutorial](https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)                 | CodeWithHarry  | 
-| [React Native Projects Playlist](https://www.youtube.com/watch?v=diUDjNwZ8Lg&list=RDCMUC3_z0yLxjNQpgGoc5VWuV2A)                 | ByProgrammers | 
-| [Spring Framework Tutorial](https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS)                 | LearnCodeWith Durgesh | 
-| [JSP & Servlets Tutorial](https://www.youtube.com/watch?v=xve6QEgIR-0&list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb)                 | LearnCodeWith Durgesh | 
-| [React JS Resume and Portfolio Website](https://youtube.com/playlist?list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1)                 | Salman Fazal | 
-| [5 Spring Boot Projects](https://www.youtube.com/watch?v=VR1zoNomG3w)                 | Java Guides | 
-| [100 Days of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)                 | Anais Urlichs | 
-| [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)                 | Les Jackson | 
-| [.NET Micro Services](https://www.youtube.com/watch?v=DgVjEo3OGBI)                 | Les Jackson | 
+| [Full Stack GraphQL React](https://www.youtube.com/watch?v=I6ypD7qv3Z8&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=21&t=419s)                 | Ben Awad  |
+| [React Projects](https://www.youtube.com/watch?v=ly3m6mv5qvg&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=13)                 | Coding Addict  |
+| [PHP Tutorial](https://www.youtube.com/watch?v=at19OmH2Bg4&list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)                 | CodeWithHarry  |
+| [React Native Projects Playlist](https://www.youtube.com/watch?v=diUDjNwZ8Lg&list=RDCMUC3_z0yLxjNQpgGoc5VWuV2A)                 | ByProgrammers |
+| [Spring Framework Tutorial](https://www.youtube.com/watch?v=KRMNTudb0AY&list=PL0zysOflRCekeiERASkpi-crREVensZGS)                 | LearnCodeWith Durgesh |
+| [JSP & Servlets Tutorial](https://www.youtube.com/watch?v=xve6QEgIR-0&list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb)                 | LearnCodeWith Durgesh |
+| [React JS Resume and Portfolio Website](https://youtube.com/playlist?list=PLISG6SSQ9nqyuuTjr2cDApJlY9-K3jrn1)                 | Salman Fazal |
+| [5 Spring Boot Projects](https://www.youtube.com/watch?v=VR1zoNomG3w)                 | Java Guides |
+| [100 Days of Kubernetes](https://www.youtube.com/watch?v=W6J6UipVNGA&list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)                 | Anais Urlichs |
+| [GraphQL API with .NET 5 and Hot Chocolate](https://www.youtube.com/watch?v=HuN94qNwQmM)                 | Les Jackson |
+| [.NET Micro Services](https://www.youtube.com/watch?v=DgVjEo3OGBI)                 | Les Jackson |
 
 
 ## Plans for the future ⚡
@@ -151,7 +151,7 @@ You can also add your own examples to the projects after you have completed them
 - [18 amazing GitHub repositories that will make a Beautiful Project](https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo)
 - [Crypto Dev Hub](https://cryptodevhub.io/)
 
-#### Design Resources 
+#### Design Resources
 
 - [CSS Icon Pack](https://css.gg/)
 - [Icon Store](https://iconstore.co/)
