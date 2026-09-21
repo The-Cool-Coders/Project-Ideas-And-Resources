@@ -77,6 +77,7 @@ required to complete them.
 | [Facebook Clone Application](https://www.youtube.com/watch?v=B-kxUMHBxNo&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=6)                 | A facebook Clone Application using React JS and Firebase  | 3-Advanced |
 |  [Netflix Clone - FullStack](https://www.youtube.com/watch?v=x_EEwGe-a9o&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=1&t=291s)   | A Netflix clone application using TMDB API | 3-Advanced |
 | [Instagram Clone Application](https://www.youtube.com/watch?v=f7T48W0cwXM)|An Instagram Clone application using React JS|3-Advanced|
+| [Collaborative Whiteboard](https://www.youtube.com/watch?v=ifxK3E5l3u0) | A real-time drawing app with multiple users using WebSockets | 3-Advanced |
 |  [A COVID-19 Tracker](https://www.youtube.com/watch?v=cF3pIMJUZxM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=2)   | A COVID-19 Tracker using React JS | 3-Advanced |
 |  [Full-Stack Amazon Clone](https://www.youtube.com/watch?v=RDV3Z1KCBvo&feature=youtu.be&ck_subscriber_id=857936933)   | A Full-Stack AMAZON Clone using REACT JS | 3-Advanced |
 |  [Flipkart Clone Application](https://www.youtube.com/watch?v=tvdFYmJEaw4&list=PLB_Wd4-5SGAYsxD4JGaVdXll3PnoyI-AM) |A Full-Stack Flipkart Clone using MERN Stack |3-Advanced |
