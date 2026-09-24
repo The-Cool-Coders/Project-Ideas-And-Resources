@@ -47,7 +47,7 @@ required to complete them.
 | [TIC TAC TOE](https://www.youtube.com/watch?v=BHh654_7Cmw) | Tic Tac Toe game using Python | 1-Beginner |
 | [Password Generator](https://www.youtube.com/watch?v=SwgBZ0BQNLQ) | Password Generator App using Python | 1-Beginner |
 | [PDF to Audio Book Converter](https://www.youtube.com/watch?v=kyZ_5cvrXJI&list=WL&index=18) | PDF to Audio Book using Python | 1-Beginner |
-
+  [Expense Tracker App](https://www.youtube.com/watch?v=gstzPdGYrgI) | Expense Tracker App using  HTML, CSS & JavaScript  | 1-Beginner |
 
 
 ### Tier-2: Intermediate Projects
