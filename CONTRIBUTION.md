@@ -15,3 +15,4 @@ Pull requests are the best way to propose changes to the codebase (we use Github
 - Write clear meaningful git commit messages.
 - Make sure your code lints.
 - Issue that pull request!
+-always ensure you right the efficient code 
