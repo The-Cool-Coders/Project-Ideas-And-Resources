@@ -37,16 +37,16 @@ required to complete them.
 
 ### Tier-1: Beginner Projects
 
-| Name                                                                              | Short Description                                          | Tier       |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Chess Game App](https://www.youtube.com/watch?v=SS5amIbX0Mo&list=LL&index=3&t=56s) | A Two Player Chess game application using JavaScript| 1-Beginner |
-| [10 User Interfaces](https://www.youtube.com/watch?v=Rz-rey4Q1bw&list=LL&index=6&t=8839s) | 10 User Interfaces using HTML, CSS and JavaScript| 1-Beginner |
-| [Audio Book](https://www.youtube.com/watch?v=Flm2YHEFd5A) | PDF to Audio Book using Python| 1-Beginner |
-| [Face Recognition App](https://www.youtube.com/watch?v=sz25xxF_AVE) | Face Recognition + Attendance using OpenCV| 1-Beginner |
-| [ Build Brand Page](https://www.youtube.com/watch?v=W7up-w1QYpw&ab_channel=DoSomeCoding)| Design with React| 1-Begineer |
-| [TIC TAC TOE](https://www.youtube.com/watch?v=BHh654_7Cmw) | Tic Tac Toe game using Python| 1-Beginner |
-| [Password Generator](https://www.youtube.com/watch?v=SwgBZ0BQNLQ) | Password Generator App using Python| 1-Beginner |
-| [PDF to Audio Book Converter](https://www.youtube.com/watch?v=kyZ_5cvrXJI&list=WL&index=18) | PDF to Audio Book using Python| 1-Beginner |
+| Name | Short Description | Tier |
+| :--- | :--- | :--- |
+| [Chess Game App](https://www.youtube.com/watch?v=SS5amIbX0Mo&list=LL&index=3&t=56s) | A Two Player Chess game application using JavaScript | 1-Beginner |
+| [10 User Interfaces](https://www.youtube.com/watch?v=Rz-rey4Q1bw&list=LL&index=6&t=8839s) | 10 User Interfaces using HTML, CSS and JavaScript | 1-Beginner |
+| [Audio Book](https://www.youtube.com/watch?v=Flm2YHEFd5A) | PDF to Audio Book using Python | 1-Beginner |
+| [Face Recognition App](https://www.youtube.com/watch?v=sz25xxF_AVE) | Face Recognition + Attendance using OpenCV | 1-Beginner |
+| [Build Brand Page](https://www.youtube.com/watch?v=W7up-w1QYpw&ab_channel=DoSomeCoding) | Design with React | 1-Beginner |
+| [TIC TAC TOE](https://www.youtube.com/watch?v=BHh654_7Cmw) | Tic Tac Toe game using Python | 1-Beginner |
+| [Password Generator](https://www.youtube.com/watch?v=SwgBZ0BQNLQ) | Password Generator App using Python | 1-Beginner |
+| [PDF to Audio Book Converter](https://www.youtube.com/watch?v=kyZ_5cvrXJI&list=WL&index=18) | PDF to Audio Book using Python | 1-Beginner |
 
 
 
@@ -77,6 +77,7 @@ required to complete them.
 | [Facebook Clone Application](https://www.youtube.com/watch?v=B-kxUMHBxNo&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=6)                 | A facebook Clone Application using React JS and Firebase  | 3-Advanced |
 |  [Netflix Clone - FullStack](https://www.youtube.com/watch?v=x_EEwGe-a9o&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=1&t=291s)   | A Netflix clone application using TMDB API | 3-Advanced |
 | [Instagram Clone Application](https://www.youtube.com/watch?v=f7T48W0cwXM)|An Instagram Clone application using React JS|3-Advanced|
+| [Collaborative Whiteboard](https://www.youtube.com/watch?v=ifxK3E5l3u0) | A real-time drawing app with multiple users using WebSockets | 3-Advanced |
 |  [A COVID-19 Tracker](https://www.youtube.com/watch?v=cF3pIMJUZxM&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=2)   | A COVID-19 Tracker using React JS | 3-Advanced |
 |  [Full-Stack Amazon Clone](https://www.youtube.com/watch?v=RDV3Z1KCBvo&feature=youtu.be&ck_subscriber_id=857936933)   | A Full-Stack AMAZON Clone using REACT JS | 3-Advanced |
 |  [Flipkart Clone Application](https://www.youtube.com/watch?v=tvdFYmJEaw4&list=PLB_Wd4-5SGAYsxD4JGaVdXll3PnoyI-AM) |A Full-Stack Flipkart Clone using MERN Stack |3-Advanced |
@@ -84,7 +85,7 @@ required to complete them.
 |  [Travel Log - MERN STACK ](https://www.youtube.com/watch?v=5pQsl9u_10M) | Travel Log App using MERN Stack |3-Advanced |
 |  [Discord Clone - MERN STACK ](https://www.youtube.com/watch?v=YzcnqYNXM90) | Discord Clone App using MERN Stack |3-Advanced |
 |  [Messenger Clone - MERN STACK ](https://www.youtube.com/watch?v=8GMx8r9zQXg) | Messenger Clone App using MERN Stack |3-Advanced |
-|  [Tik Tok Clone - MERN STACK ](https://www.youtube.com/watch?v=g8yGxDMyGi) | Tik Tok Clone App using MERN Stack |3-Advanced |
+|  [Tik Tok Clone - MERN STACK ](https://www.youtube.com/watch?v=g8yGxDMyGiE) | Tik Tok Clone App using MERN Stack |3-Advanced |
 |  [Robinhood Clone](https://www.youtube.com/watch?v=TxggrQ0nHjY&list=PLgxM_xd-x_qHa6ErJkxh4wIRc7Q36AMfC&index=18) | Robinhood Clone using React JS |3-Advanced |
 |  [LinkedIn Clone](https://www.youtube.com/watch?v=QaYts9sPmcY&t=3s) | LinkedIn Clone using React JS |3-Advanced |
 |  [Signal Clone](https://www.youtube.com/watch?v=MJzmZ9qmdaE) | Signal Clone using React JS |3-Advanced |
@@ -178,6 +179,7 @@ You can also add your own examples to the projects after you have completed them
 #### Awesome Dev Tools
 
 - [Git Ignore Generator](https://www.toptal.com/developers/gitignore)
+- [CORS-Tester](https://cors-error.dev/cors-tester/)
 
 ### Articles
 
