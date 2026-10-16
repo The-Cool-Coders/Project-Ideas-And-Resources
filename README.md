@@ -178,6 +178,7 @@ You can also add your own examples to the projects after you have completed them
 
 #### Awesome Dev Tools
 
+- [FastTools](https://fasttools.me/) - Lightweight developer toolkit with visual crontab builder, JSON to TypeScript/Zod converter, and fee calculators running 100% client-side.
 - [Git Ignore Generator](https://www.toptal.com/developers/gitignore)
 - [CORS-Tester](https://cors-error.dev/cors-tester/)
 - [TempMail10min](https://temp-mail10min.online/) - Free disposable temporary email generator for testing signup and authentication flows with 5-30 minute inboxes.
