@@ -94,6 +94,7 @@ required to complete them.
 |  [Full Stack NFT Marketplace](https://www.youtube.com/watch?v=GKJBEEXUha0) | Ethereum, Polygon and Next.js |3-Advanced |
 |  [Invoice Application](https://www.youtube.com/watch?v=vsJtN54aA7w) | Vue 3, Vuex & Firebase |3-Advanced |
 |  [Full-Stack Twitter Clone](https://www.youtube.com/watch?v=5Wak0iyGCrc&t) | Next JS, Recoil JS, Tailwind CSS, Nextauth & Firebase |3-Advanced |
+| [Next.js Waitlist](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) | Waitlist with double opt-in, referral queue and bulk launch email (Next.js, Drizzle, SQLite) | 3-Advanced |
 
 ### DApp and Blockchain Projects - 
 
