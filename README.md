@@ -175,6 +175,7 @@ You can also add your own examples to the projects after you have completed them
 - [Responsive Voice API](https://responsivevoice.org/api/)
 - [Crypto Currencies API](https://www.coinapi.io/)
 - [Placeholder Image API](https://lorem.space/)
+- [CurlShot Screenshot API](https://curlshot.com/)
 
 #### Awesome Dev Tools
 
