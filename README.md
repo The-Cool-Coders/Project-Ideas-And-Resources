@@ -60,6 +60,7 @@ required to complete them.
 | [Weather App](https://www.youtube.com/watch?v=GuA0_Z1llYU) | Weather app in React JS using the Open Weather Map API | 2-Intermediate |
 | [Business Card Generator](https://www.youtube.com/watch?v=mGORpgEOsT4) | A Business Card Generator using React JS | 2-Intermediate |
 | [React Photo Gallery](https://www.youtube.com/watch?v=vUe91uOx7R0) | Photo Gallery App using React JS and Firebase | 2-Intermediate |
+| [Next.js Waitlist with Double Opt-in](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) | A Next.js waitlist with double opt-in, referral queue and a bulk launch email | 2-Intermediate |
 | [Chat-Bot Application](https://www.youtube.com/watch?v=FFT4p6me2g0)|A Chat-Bot which can answer your queries using python|2-Intermediate|
 | [Movie Recomendation Engine](https://www.youtube.com/watch?v=XoTwndOgXBM)| A Movie Recommendation System Using ML|2-Intermediate|
 | [Credit Card Fraud Detection](https://www.youtube.com/watch?v=jCoF1rMs_0s)| Credit Card Fraud Detection using ML |2-Intermediate|
